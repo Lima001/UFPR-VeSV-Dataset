@@ -1,6 +1,6 @@
 # UFPR-VeSV-Dataset
 
-The UFPR Vehicle Surveillance (UFPR-VeSV) dataset provides a challenging benchmark to advance Fine-Grained Vehicle Classification (FGVC) and integrate it with Automatic License Plate Recognition (ALPR). The dataset's construction and initial results from experiments using deep learning models are detailed in our paper *Toward Unified Fine-Grained Vehicle Classification and Automatic License Plate Recognition* [PDF soon].
+The UFPR Vehicle Surveillance (UFPR-VeSV) dataset provides a challenging benchmark to advance Fine-Grained Vehicle Classification (FGVC) and integrate it with Automatic License Plate Recognition (ALPR). The dataset's construction and initial results from experiments using deep learning models are detailed in our paper *Toward Unified Fine-Grained Vehicle Classification and Automatic License Plate Recognition*. [[PDF]](https://arxiv.org/pdf/2604.05271).
 
 ## About
 
@@ -22,7 +22,7 @@ The dataset provides rich annotations across 13 color classes, 26 makes, 136 mod
     <img src=./figs/lp-samples.png alt="License plate samples from UFPR-VeSv dataset">
 </figure>
 
-The dataset encompasses a broad temporal range and is categorized according to camera capture mode. Notably, nighttime images—captured predominantly in infrared—account for 21.5% of the data. The dataset also features diverse vehicle viewpoints. Based on license plate visibility, these perspectives are standardized into 13,842 rear-view and 11,103 frontal-view images.
+The dataset encompasses a broad temporal range and is categorized according to camera capture mode. Notably, nighttime images — captured predominantly in infrared — account for 21.5% of the data. The dataset also features diverse vehicle viewpoints. Based on license plate visibility, these perspectives are standardized into 13,842 rear-view and 11,103 frontal-view images.
 
 Regarding privacy concerns, the license plates are associated with the vehicles only; no public information about vehicle drivers or owners is available. Faces that may appear were blurred to preserve identity. 
 
@@ -36,7 +36,25 @@ Please note that failure to follow these instructions may result in no response.
 
 ## Citation
 
-[To be added]
+This paper is currently in press. The BibTeX citation below is temporary and will be updated with final publication details once it is officially released.
+
+If you use the UFPR-VeSV dataset in your research, please cite the paper:
+
+* G. E. Lima, V. Nascimento, E. Santos, E. Nascimento Jr., R. Laroca, D. Menotti, "Toward Unified Fine-Grained Vehicle Classification and Automatic License Plate Recognition," *Journal of the Brazilian Computer Society*, vol. 32, no. 1, pp. 1-16, 2026. In Press. [SBC-OpenLib] [[arXiv]](https://arxiv.org/abs/2604.05271).
+
+```
+@article{lima2026toward,
+  title = {Toward Unified Fine-Grained Vehicle Classification and Automatic License Plate Recognition},
+  author = {G. E. {Lima} and V. {Nascimento} and E. {Santos} and E. {Nascimento Jr.} and R. {Laroca} and D. {Menotti}},
+  year = {2026},
+  journal = {Journal of the Brazilian Computer Society},
+  volume = {32},
+  number = {1},
+  pages = {1-16},
+  doi = {},
+  issn = {},
+}
+```
 
 ## Related publications
 
