@@ -48,11 +48,11 @@ If you use the UFPR-VeSV dataset in your research, please cite the paper:
   author = {G. E. {Lima} and V. {Nascimento} and E. {Santos} and E. {Nascimento Jr.} and R. {Laroca} and D. {Menotti}},
   year = {2026},
   journal = {Journal of the Brazilian Computer Society},
+  issn = {1678-4804},
   volume = {32},
   number = {1},
-  pages = {1-16},
-  doi = {},
-  issn = {},
+  pages = {783-799},
+  doi = {10.5753/jbcs.2026.5899}
 }
 ```
 
