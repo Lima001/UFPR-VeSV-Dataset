@@ -40,7 +40,7 @@ This paper is currently in press. The BibTeX citation below is temporary and wil
 
 If you use the UFPR-VeSV dataset in your research, please cite the paper:
 
-* G. E. Lima, V. Nascimento, E. Santos, E. Nascimento Jr., R. Laroca, D. Menotti, "Toward Unified Fine-Grained Vehicle Classification and Automatic License Plate Recognition," *Journal of the Brazilian Computer Society*, vol. 32, no. 1, pp. 1-16, 2026. In Press. [SBC-OpenLib] [[arXiv]](https://arxiv.org/abs/2604.05271).
+* G. E. Lima, V. Nascimento, E. Santos, E. Nascimento Jr., R. Laroca, D. Menotti, "Toward Unified Fine-Grained Vehicle Classification and Automatic License Plate Recognition," *Journal of the Brazilian Computer Society*, vol. 32, no. 1, pp. 1-16, 2026. In Press. [[SBC-OpenLib]](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5899) [[arXiv]](https://arxiv.org/abs/2604.05271).
 
 ```
 @article{lima2026toward,
