@@ -42,7 +42,7 @@ If you use the UFPR-VeSV dataset in your research, please cite the paper:
 
 * G. E. Lima, V. Nascimento, E. Santos, E. Nascimento Jr., R. Laroca, D. Menotti, "Toward Unified Fine-Grained Vehicle Classification and Automatic License Plate Recognition," *Journal of the Brazilian Computer Society*, vol. 32, no. 1, pp. 1-16, 2026. In Press. [[SBC-OpenLib]](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5899) [[arXiv]](https://arxiv.org/abs/2604.05271).
 
-```
+```bibtex
 @article{lima2026toward,
   title = {Toward Unified Fine-Grained Vehicle Classification and Automatic License Plate Recognition},
   author = {G. E. {Lima} and V. {Nascimento} and E. {Santos} and E. {Nascimento Jr.} and R. {Laroca} and D. {Menotti}},
